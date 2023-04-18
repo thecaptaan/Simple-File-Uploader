@@ -15,6 +15,10 @@ server.use(express.static(path.join(__dirname, "src", "assets", "javascript")));
 const router = require("./src/router");
 server.use(router);
 
+// Method "POST" => Route "/upload"
+const uploadController = require('./src/upload')
+server.use(uploadController)
+
 server.listen(8080, () => {
   console.log(`server is listing on localhost::8080`);
 });
