@@ -1,0 +1,21 @@
+body{
+    width: 100%;
+    height: 100vh;
+}
+
+
+
+.uploadForm{
+    width: 500px;
+    height: fit-content;
+    padding: 20px;
+    background-color: greenyellow;
+}
+
+.uploadLabel{
+    padding: 10px 30px;
+    font-size: 18px;
+    color: #ffffff;
+    border-radius: 10px;
+    background-color: gray;
+}
