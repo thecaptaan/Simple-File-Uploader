@@ -2,7 +2,7 @@
 
 ### Setup 
 
-    git pull https://github.com/thecaptaan/File-Upload-NodeJS.git
+    git clone https://github.com/thecaptaan/File-Upload-NodeJS.git
     cd File-Upload-NodeJS
     npm i
 

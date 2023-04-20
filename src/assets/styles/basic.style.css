@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
 }
 
 .hidden{
@@ -30,5 +32,14 @@
     color: #ffffff;
     border: none;
     font-size: 18px;
-    background-color: green;
+    border-radius: 10px;
+    font-weight: 900;
+    letter-spacing: 1px;
+    background-color: #0000CD;
 }
+
+.button:hover{
+    background-color: #0202f8;
+
+}
+

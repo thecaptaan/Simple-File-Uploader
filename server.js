@@ -9,6 +9,7 @@ server.set("views", path.join(__dirname, "src", "views"));
 
 //
 server.use(express.static(path.join(__dirname, "src", "assets", "styles")));
+server.use(express.static(path.join(__dirname, "src", "assets", "images")));
 server.use(express.static(path.join(__dirname, "src", "assets", "javascript")));
 
 // Method "GET" => Route "/"
