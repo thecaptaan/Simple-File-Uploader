@@ -1,7 +1,6 @@
 "use strict";
 require("dotenv").config();
 const path = require("node:path");
-const moment = require("moment");
 const fs = require("node:fs");
 const { nanoid } = require("nanoid");
 
