@@ -24,6 +24,8 @@ body {
 .uploadLabel {
     padding: 10px 50px;
     font-size: 18px;
+    width: 100%;
+    text-align: center;
     background-color: gray;
     font-weight: 900;
     border: 1px dotted gray;
