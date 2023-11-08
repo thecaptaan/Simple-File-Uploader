@@ -35,4 +35,4 @@ Run the following the code:
 Feel free to contribute is an open invitation for everyone to participate and share their ideas, skills, or resources without any hesitation. Your contributions are highly valued and can make a meaningful impact on the community.
 ## Support
 
-For support, email captaan@xorblin.com
+For support, email thecaptaan@proton.me
