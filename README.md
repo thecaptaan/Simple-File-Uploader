@@ -21,8 +21,8 @@ Install *Simple File Uploader* using git
     
 ## Warning
 
-Before running the server you have to generate token. Token is only valid for **5 min**. 
-Run the following the code:
+Before uploading file on the server you must have token. Token is only valid for **5 min**. 
+To generate token run the following the code:
 
 ```bash
    npm run token
